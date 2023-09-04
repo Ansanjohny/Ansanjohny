@@ -13,7 +13,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansanjohny&show_icons=true)
 
-##![Ansan's most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Ansanjohny&layout=compact&theme=radical)
+![Ansan's most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Ansanjohny&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 
