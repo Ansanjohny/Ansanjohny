@@ -16,6 +16,6 @@
 ## 📫 Contact Me
 
 - [Email](ansanjohny03@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ansan-johny-6092aa190)https://www.linkedin.com/in/ansan-johny-6092aa190)
+- [LinkedIn](https://www.linkedin.com/in/ansan-johny-6092aa190)
 - [Twitter](https://twitter.com/ansan_johny)
 
