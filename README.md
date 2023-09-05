@@ -1,6 +1,6 @@
 # Hello, I'm Ansan Johny!
 
-- 👨‍💻 I'm a Mechanical Graduate, an aspiring Software Quality Designer & a Mechanical Designer .
+- 👨‍💻 I'm a Mechanical Engineering Student, an aspiring Software Quality Designer & a Mechanical Designer .
 - 💬 Ask me about Software Quality Testing, Solidworks, Ansys, AutoCad & Fusion360.
 
 ## 🛠️ Skills
