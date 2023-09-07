@@ -17,7 +17,6 @@
 
 ## 📫 Contact Me
 
-- <a href="https://www.linkedin.com/in/ansan-johny-6092aa190"><i class="fa fa-linkedin-square fa-2x color-linkedin"></i></a>
-- <a href="https://www.facebook.com/ansan.johny.1?mibextid=ZbWKwL"><i class="fa fa-facebook-square fa-2x color-facebook"></i></a>
-- <a href="https://twitter.com/ansan_johny?t=5869OZ7U3TMCn1OCu89lfg&s=09"><i class="fa fa-twitter-square fa-2x color-twitter"></i></a>
-
+- <a href="mailto:ansanjohny@3@gmail.com"><i class="far fa-envelope"></i> Email</a>
+- <a href="https://www.linkedin.com/in/ansan-johny-6092aa190"><i class="fab fa-linkedin"></i> LinkedIn</a>
+- <a href="https://twitter.com/ansan_johny"><i class="fab fa-twitter"></i> Twitter</a>
