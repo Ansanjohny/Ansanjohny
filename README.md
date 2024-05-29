@@ -15,7 +15,7 @@
 
 ![Ansan's most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Ansanjohny&layout=compact&theme=radical)
 
-<img src="https://mulearn.org/embed/rank/ansanjohny@mulearn" height="400px"></img>
+<img src="https://mulearn.org/embed/rank/ansanjohny@mulearn" width="100px" height="100px"></img>
 
 ## 📫 Contact Me
 
