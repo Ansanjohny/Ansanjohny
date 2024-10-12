@@ -13,7 +13,8 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansanjohny&show_icons=true)
 
-![Ansan's most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Ansanjohny&layout=compact&theme=radical)
+![Ansan's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?usernameAnsanjohny&layout=compact
+)
 
  
 <!-- <img src="https://mulearn.org/embed/rank/ansanjohny@mulearn" width="100" height="100"></img> -->
