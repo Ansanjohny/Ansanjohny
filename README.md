@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansanjohny&show_icons=true)
+![Ansan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansanjohny&show_icons=true&theme=dark)
 
 ![Ansan's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansanjohny&layout=compact)
 
