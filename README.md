@@ -1,27 +1,34 @@
-# Hello, I'm Ansan Johny!
+# 👋 Hello, I'm Ansan Johny!
 
-- 👨‍💻 I'm a Mechanical Engineering Student, an aspiring Software Quality Designer & a Mechanical Designer .
-- 💬 Ask me about Software Quality Testing, Solidworks, Ansys, AutoCad & Fusion360.
+I am a **Mechanical Engineering Student** with a passion for becoming a **Software Quality Designer** and **Mechanical Designer**. I love exploring new technologies and honing my skills in engineering and software testing.
+
+## 💬 Let's Connect!
+
+Feel free to ask me about:
+- Software Quality Testing
+- Solidworks, Ansys, AutoCAD, and Fusion 360
 
 ## 🛠️ Skills
 
-- Manual Software Testing Skills, Postman API, Jira
-- Leadership, Management, Problem Solving 
-- Solidworks, Ansys, Autocad
+- **Software Testing**: Manual Testing, Postman API, Jira
+- **Engineering Tools**: Solidworks, Ansys, AutoCAD
+- **Soft Skills**: Leadership, Management, Problem Solving
 
 ## 📊 GitHub Stats
 
 ![Ansan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansanjohny&show_icons=true&theme=dark)
+![Ansan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansanjohny&layout=compact&theme=dark)
 
-![Ansan's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansanjohny&layout=compact&theme=dark)
+## 🌟 Achievements
 
+![MuLearn Rank](https://mulearn.org/embed/rank/ansanjohny@mulearn)
 
- 
-<!-- <img src="https://mulearn.org/embed/rank/ansanjohny@mulearn" width="100" height="100"></img> -->
-<img src="https://mulearn.org/embed/rank/ansanjohny@mulearn" width="200" height="200"></img>
+## 📫 Contact Me
 
-## 📫 Contact Me  
+- ✉️ [Email](mailto:ansanjohny03@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ansan-johny-6092aa190)
+- 🐦 [Twitter](https://twitter.com/ansan_johny)
 
-- <a href="mailto:ansanjohny03@gmail.com"><i class="far fa-envelope"></i> Email</a>
-- <a href="https://www.linkedin.com/in/ansan-johny-6092aa190"><i class="fab fa-linkedin"></i> LinkedIn</a>
-- <a href="https://twitter.com/ansan_johny"><i class="fab fa-twitter"></i> Twitter</a>
+---
+
+Thank you for visiting my profile! 🚀
